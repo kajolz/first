@@ -17,7 +17,6 @@ else:
                 print('c grade')
             else:
                 if ma<35:
-                    print('fail')
-print('result',ma)
+                  print('fail')
                     
                      
